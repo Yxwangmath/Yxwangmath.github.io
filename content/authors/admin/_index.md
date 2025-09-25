@@ -49,31 +49,15 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+  - area: Ph.D  Pure Mathematics
+    institution: Nankai  University
+    date_start: 2021-09-01
+    date_end: 2025-06-30
+    
+  - area: MS Pure Mathematics
+    institution: Nankai  University
+    date_start: 2018-09-01
+    date_end: 2021-06-30
 
 work:
   - position: Senior AI Research Scientist
@@ -161,4 +145,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I obtained my Ph.D in Pure Mathematics from the School of Mathematical Sciences, Nankai University. My research focuses on topological data analysis, machine learning models, and deep learning models, including Graph Neural Networks (GNNs), Topological Deep Learning (TDL), Geometric Deep Learning (GDL). In particular, I aim to use the mathematical variants from topology and geometry to develop the relevant mathematical AI models and apply these models to practical applications.
